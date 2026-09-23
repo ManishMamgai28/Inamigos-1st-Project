@@ -122,7 +122,7 @@ nav a:hover {
     position: relative;
     display: flex;
     align-items: center;
-    background-image: url("images/hero.jpg");
+    background-image: url("Images/hero.jpg");
     background-size: cover;
     background-position: center;
     color: white;
