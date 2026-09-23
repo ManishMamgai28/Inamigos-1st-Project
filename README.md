@@ -34,13 +34,12 @@ The webpage covers these initiatives:
 
 ## Project Structure
 
-1st Project
-│
+```text
+InAmigos-1st-Project/
 ├── index.html
 ├── style.css
 ├── README.md
-│
-└── images
+└── images/
     ├── hero.jpg
     ├── about.jpg
     ├── bachpanshala.jpg
@@ -49,3 +48,6 @@ The webpage covers these initiatives:
     ├── seva.jpg
     ├── prakriti.jpg
     └── vikas.jpg
+
+
+**Live Website:** https://manishmamgai28.github.io/Inamigos-1st-Project/
