@@ -34,13 +34,13 @@ The webpage covers these initiatives:
 
 ## Project Structure
 
-1st Project
+1st-Project/
 │
 ├── index.html
 ├── style.css
 ├── README.md
 │
-└── images
+└── images/
     ├── hero.jpg
     ├── about.jpg
     ├── bachpanshala.jpg
